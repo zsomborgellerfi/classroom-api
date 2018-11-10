@@ -1,0 +1,24 @@
+{
+  "name": "classroom-api",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful API for the Classroom Clicker web app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsomborgellerfi/classroom-api.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Zsombor Gellerfi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zsomborgellerfi/classroom-api/issues"
+  },
+  "homepage": "https://github.com/zsomborgellerfi/classroom-api#readme"
+}
