@@ -1,0 +1,16 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "linebreak-style": "off",
+    "eol-last": "off",
+    "import/newline-after-import": "off",
+    "indent": [
+      "error",
+      4
+    ],
+    "no-unused-vars": "off",
+    "consistent-return": "off",
+    "comma-dangle": "off",
+    "no-console": "off"
+  }
+}
